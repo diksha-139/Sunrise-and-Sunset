@@ -46,7 +46,7 @@ function draw(){
 
 
 
-
+}
 
 
 async function getBackgroundImg(){
