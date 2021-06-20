@@ -44,10 +44,10 @@ function draw(){
        text("Time : "+ hour%12 + " AM", 50,100);
      }
 
-}
 
 
-}
+
+
 
 async function getBackgroundImg(){
 
